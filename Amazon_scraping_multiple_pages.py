@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import csv
 import pandas as pd
 import unittest
-import math
 from fake_user_agent import user_agent
 
 data_list = []
